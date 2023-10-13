@@ -1,0 +1,79 @@
+
+
+/* FOOTER */
+
+
+/* Section 10 */
+.s10-bg-img{
+    background-image: url(../Assets/home/Mask\ Group\ 3bg.png);
+    background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+    
+}
+
+.s10-img-h {
+    height: 20rem;
+    width: 100%;
+}
+
+.s10-em-r {
+    border-radius: 0.5rem 0rem 0rem 0.5rem;
+    width: 50%;
+    padding: 0.8rem;
+    outline: none;
+}
+
+.s10-centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.s10-container {
+    position: relative;
+    text-align: center;
+    color: #000000;
+}
+
+.subscribe-button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 0rem 0.5rem 0.5rem 0rem;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+.s10-ifs {
+    font-size: 1.5rem;
+    justify-content: center;
+    display: flex;
+}
+
+.s10-iefs {
+    font-size: 1.2rem;
+    justify-content: center;
+    display: flex;
+}
+
+
+/* Section 11 */
+
+.s11-bg-img{
+    background-image: url(../Assets/home/Mask\ Group\ 36bg.png);
+    background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+    
+}
+.s11-col4-si{
+    justify-content:start;
+    margin-left: 1rem;
+    font-size: 1.5rem;
+    display: flex;
+    align-items: center;
+}
+
+/* Section 12 */

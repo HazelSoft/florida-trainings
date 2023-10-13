@@ -1,0 +1,41 @@
+/* Header */
+
+/* Section 1 */
+
+/* Custom CSS for mobile multi-level dropdown */
+.dropdown-submenu {
+  position: relative;
+}
+
+.mm-m {
+  padding-left: 2rem;
+}
+
+.dropdown-submenu .dropdown-menu {
+  /* top: 0; */
+  left: 100%;
+  margin-top: 0;
+}
+
+.sm-tc {
+  color: #000000 !important;
+}
+
+/* Search Box */
+
+.s1-col2 {
+  justify-content: end;
+  display: flex;
+  padding: 0.5rem;
+  width: 60%;
+}
+
+/* Section 2 */
+.s2-bgc {
+  background-color: #27499b;
+  padding: 10px 0;
+}
+
+.s2-tc {
+  color: #27499b;
+}
